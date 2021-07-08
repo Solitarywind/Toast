@@ -1,0 +1,44 @@
+{
+  "id": "2658354",
+  "name": "toast",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "15839246",
+      "name": "checkbox_primary",
+      "font_class": "primary",
+      "unicode": "e6ab",
+      "unicode_decimal": 59051
+    },
+    {
+      "icon_id": "328397",
+      "name": "warning",
+      "font_class": "warning",
+      "unicode": "e62f",
+      "unicode_decimal": 58927
+    },
+    {
+      "icon_id": "9051340",
+      "name": "success",
+      "font_class": "success",
+      "unicode": "e621",
+      "unicode_decimal": 58913
+    },
+    {
+      "icon_id": "9558913",
+      "name": "error",
+      "font_class": "error",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "22503370",
+      "name": "info",
+      "font_class": "info",
+      "unicode": "e65f",
+      "unicode_decimal": 58975
+    }
+  ]
+}
