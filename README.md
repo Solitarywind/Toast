@@ -14,7 +14,8 @@
   
   2. Project setup
 
-  cd vue-store
+  cd Toast
+
   npm install
 
   3. Compiles and hot-reloads for development
