@@ -6,9 +6,11 @@
   |类型|type|String| 空即为primary | success，error，info，warning|
   |显示时间 |duration|Number| 2500 |
 
+  ```html
+
   1. Clone project
 
-  git clone 
+  git clone https://github.com/Solitarywind/Toast.git
   
   2. Project setup
 
@@ -22,3 +24,5 @@
   4. Compiles and minifies for production
 
   npm run build
+
+  ```
